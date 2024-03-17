@@ -1,6 +1,8 @@
 # DL-image-horizon-segmentation
 DEEP learning notebook for horizon segmentation data as part of the MIR program
 
+- `![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)` is the Markdown syntax for displaying an image with alt text "Open In Colab".
+
 ## Installation
 1. Clone this repository:
 ```bash
