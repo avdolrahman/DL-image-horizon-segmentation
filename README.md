@@ -1,2 +1,2 @@
-# DL-image-segmentation-horizon-segmentation
-DEEP learning notebook for horizon segementation data as part of MIR program
+# DL-image-horizon-segmentation
+DEEP learning notebook for horizon segmentation data as part of the MIR program
